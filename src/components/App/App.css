@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Ringbearer";
+  src: url(/fonts/ringbearer-font.ttf);
+}
+body {
+  background-image: url('/images/hobbiton-door-background.jpg');
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.header-contatiner {
+  text-align: center;
+  width: 100vw;
+}
+
+h1 {
+  font-family: "Ringbearer";
+}
